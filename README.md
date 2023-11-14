@@ -4,6 +4,7 @@ Aqui abarcaremos las preguntas relacionadas con el articulo llamado "pasos para 
 1- ¿Por qué se recomienda utilizar una unidad de estado solido (SSD) en lugar de un disco duro tradicional?
 
 -Esto debido a su bajo costo en relacion a un disco duro tradicional, es mucho mas economic rondando su precio en $58
+
 2- ¿Que marca y modelo de fuente de alimentacion se recomienda para esta construccion y por que?
 
 -la fuente 500W cooler master masterwatt de la marca non-modular 500W power supply es la mas recomendada por el articulo por su relacion calidad/precio, aunque este sostiene que siempre es mas recomendable comprar una fuente de alimentacion de marca porque si esta muere, y lleva tu sistema con ella, esta necesitara una garantia decente para poder recuperar las perdidas, pero recalcan que puede que no consigas una fuente mas barata y de mayor calidad que esta y menos si es de marca lo que estas buscando.
