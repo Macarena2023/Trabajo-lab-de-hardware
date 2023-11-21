@@ -91,4 +91,16 @@ hacia abajo, porque no hay ningún lugar para que la fuente de alimentación ext
 
 5- ¿Cuales fueron las dificultades encontradas al instalar los discos SSD en el chasis de la PC gamer?
 
+La única forma de instalar un SSD es con la etiqueta orientada hacia afuera
+ e incluso si decide hacer eso, no puede tener los puertos hacia abajo.
+lo que te queda es un SSD en un carrito, con una etiqueta hacia atrás, y
+los puertos en la parte superior. Sí. Supervisión del diseño, su nombre es Thermaltake. Eran
+en realidad usándolos como una forma de gestión de cables aquí, atrapando la CPU
+cable hacia abajo contra la fuente de alimentación y luego manteniendo la SSD suelta en el chasis.
+Debido a que no es un disco giratorio, a nuestro SU630 no le importa en qué dirección
+oriénte, de modo que al esconderla debajo de la bandeja de la placa base quede sólida.
+Podríamos haberlo instalado en uno de los soportes para discos duros de 3,5 pulgadas.
+debajo de la GPU, pero eso afectaría nuestra gestión de cables
+y como el flujo de aire solo lo proporciona ese ventilador de 200 mm, más tenemos
+de eso, mejor.
 
