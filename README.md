@@ -33,5 +33,62 @@ Ventilador de entrada frontal de 200 mm y la gran cantidad de
 La modularidad incorporada en él lo convierte en un candidato principal. En tanto a apariencia  ciertamente está abierta a interpretación, eso es
 Seguro, pero en general no está tan mal. 
 
+-8 ¿Cual es el presupuesto total para esta construccion de PC de juegos y porque se eligio este presupuesto?
+
+El presupuesto total para esta construccion es de $999 que principalmente era de $799, es considerado el presupuesto mas "economico" para las PC gamers de la generacion actual y con este presupuesto son considerados unos componentes antes que otros para el mejor funcionamiento de los juegos en la construccion. Los mas destacados serian el procesador o la tarjeta grafica.
+
+9- ¿Que otros componentes se necesitan para la construccion de la PC de juegos?
+
+yo personalmente agregaria la compra de perifericos como el monitor, mouse y teclado. Tambien la agregacion de acccesorios como el mousepad y los cascos para una mejor experiencia de sonido a la hora de jugar.
+
+-10 ¿Que recomendaciones se dan para aquellos que tienen un presupuesto mas bajo que el de la construccion de $999?
+
+Mi recomendacion seria, mas que todo aca en Argentina, comprar de a poco los componentes y buscar precio. Debido a la inflacion actual no se pueden comprar todos de una sentada por el bajo presupuesto, pero si ir ahorrando para comprar los componentes mas importantes como seria la placa madre y asi evitar que la inflacion te coma el bolsillo.
+
+ALGUNAS PREGUNTAS RESPECTO AL CASO DE USO QUE SE EXPLICA A PARTIR DE LA PAGINA 45
+
+1- ¿Cual fue el proceso para instalar la CPU Ryzen en la placa base?
+
+En el caso de Ryzen, levante el brazo de retención, ubique los triángulos dorados en
+las esquinas de su procesador y el zócalo de la CPU, alinéelos, colóquelos suavemente
+Introduzca la CPU y luego vuelva a asegurar el brazo de retención. Simple.
+
+2-¿Como se instalo el enfriador de CPU en la PC de juegos?
+
+Necesitas desenroscar ambos
+de los soportes de montaje que AMD incluye de serie, al norte y al sur
+del procesador. Luego, con la placa posterior todavía en su lugar (preferiblemente sostenida por
+mano), coloque suavemente su nuevo Wraith encima y asegure los tornillos hacia abajo,
+poco a poco, en forma diagonal o de estrella. Atornille la parte superior izquierda
+uno, luego el de abajo a la derecha, luego el de arriba a la derecha, luego el de abajo a la izquierda, hasta que esté seguro. Si
+es un disipador de calor de segunda mano, un disipador de calor no original o uno que haya usado antes,
+recuerda asegurarte de colocar un poco de pasta térmica en el procesador
+antes de instalar el enfriador. Ah, y no olvides conectar el cable del ventilador a
+el encabezado del ventilador de la CPU.
+
+3- ¿Cual es el proceso para instalar la memoria DDR4 en la PC de juegos?
+
+Asegúrate de alinear la
+muesca en la parte inferior de cada tarjeta de memoria con la muesca en la ranura DIMM,
+levante los clips de retención en cada extremo, luego coloque lentamente cada barra recta
+hacia abajo, hasta que encaje en su lugar y los clips vuelvan a cerrarse. Normalmente, tu
+Tienes que asegurarte de usar las ranuras codificadas por colores para asegurarte de que estás obteniendo
+su operación de doble canal; sin embargo, algunas placas base pueden priorizar
+un par de ranuras sobre las demás. Consulta el manual o, en nuestro caso, con el
+Mortero, la propia placa base, porque te dice qué dos canales tiene.
+quiere que conectes la memoria primero.
+
+4-¿Como se realizo la instalacion de la fuente de alimentacion en el chasis del PC gamer?
+
+Para obtener tu poder
+suministro instalado, debe quitar los dos tornillos de mariposa ubicados en la
+parte inferior del panel del piso, luego levante todo el marco del chasis para sacarlo de su base.
+Luego, con el marco afuera (y los herrajes aún conectados)
+Coloque la fuente de alimentación en la placa inferior y deje caer el marco hacia abajo, o asegúre el
+marco antes de asegurarlo a la base una vez más. Es un poco intuitivo,
+pero no demasiado desafiante. Además, recuerde asegurarse de que su ventilador esté orientado
+hacia abajo, porque no hay ningún lugar para que la fuente de alimentación extraiga aire directamente hacia arriba.
+
+5- ¿Cuales fueron las dificultades encontradas al instalar los discos SSD en el chasis de la PC gamer?
 
 
