@@ -20,4 +20,18 @@ Aqui abarcaremos las preguntas relacionadas con el articulo llamado "pasos para 
 5-¿Que tipo de tarjeta grafica se recomienda para esta costruccion y porque?
 
 - La tarjeta grafica seleccionada es de nombre XFX RADEON RX 590 8GB FATBOY OC+ descrita como una pieza de aspecto limpio, quiza un poco chillona por su fibra de carbono sintetica y sus brilllantes pegatinas de abanico rojas, pero sigue siendo una buena opcion precio/calidad
-  
+
+-6 ¿Que tipo de enfirador se recomienda para esta construccion y porque?
+
+  El sistema debería consumir alrededor de 315 W cuando está bajo carga máxima, entonces se decidio por el enfriador de nombre "fuente de alimentación no modular de 500W" lo que nos da alrededor del 37 por ciento de margen para futuras actualizaciones. El articulo insiste otra vez recomendando siempre comprar un enfriador de marca para evitar posibles problemas con el sohrecalentamiento y que se queme algun componente .
+
+-7 ¿Que tipo de gabinete se recomienda para esta construccion y por que?
+
+El gabinete recomendado para esta construccion posee un nivel de toma termica de 20VT, recordando a otro gabinete prodigio llamado BitFenixNivel de Thermaltake.
+El sistema de montaje horizontal de la placa base, el enorme
+Ventilador de entrada frontal de 200 mm y la gran cantidad de
+La modularidad incorporada en él lo convierte en un candidato principal. En tanto a apariencia  ciertamente está abierta a interpretación, eso es
+Seguro, pero en general no está tan mal. 
+
+
+
